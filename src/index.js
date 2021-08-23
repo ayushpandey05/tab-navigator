@@ -1,0 +1,3 @@
+const TabNavigator = () => <></>;
+
+export { TabNavigator };
